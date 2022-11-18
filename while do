@@ -1,0 +1,12 @@
+//Program to print table of a number using functions.
+
+#include<stdio.h>
+main()
+{
+int i;
+ while (i<=9)
+{
+i=i+1;
+printf("\n the value of i=%d",i);
+}
+}

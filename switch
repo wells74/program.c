@@ -1,0 +1,22 @@
+//Program to print table of a number using functions.
+
+#include<stdio.h>
+main()
+{
+    char a,e,i,o,u;
+    printf("select and enter a charecters you want\n");
+    scanf("%c",&a,e,i,o,u);
+   switch: (char)
+    {
+    case'a';
+    case'e';
+    case'i';
+    case'o';
+    case'u';
+    printf("the charecters selected is a vowel\n");
+    break;
+    default:
+    printf("the charecter selected is not a vowel");
+    }
+    }
+    
